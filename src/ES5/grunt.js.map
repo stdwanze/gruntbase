@@ -1,0 +1,1 @@
+{"version":3,"sources":["../ES6/grunt.6.js"],"names":[],"mappings":";;;;;;IAAM,IAAI;aAAJ,IAAI;8BAAJ,IAAI;;;iBAAJ,IAAI;;eACF,gBAAG;AACH,mBAAO,MAAM,CAAC;SACjB;;;WAHC,IAAI","file":"grunt.js","sourcesContent":["class Test {\r\n    test() {\r\n        return \"test\";\r\n    }\r\n}\r\n"]}
